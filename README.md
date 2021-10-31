@@ -1,4 +1,7 @@
 # CarRacing-v1
+
+Original tutorial: https://notanymike.github.io/Solving-CarRacing/
+
 An improvement over OpenAI gym Car-Racing-v0
 
 This repo has improvements on the complexity for CarRacing-v0, which are focus torwards making `Car-Racing` env solvable, it s also intended to make the env complex enought to make it ideal to try new more complex tasks and RL problems. 
